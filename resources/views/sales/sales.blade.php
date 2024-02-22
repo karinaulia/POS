@@ -1,4 +1,4 @@
 <!DOCTYPE html>
 <html>
-    <h1>Halaman Transaksi!</h1>
+    <h1>Halaman Penjualan!</h1>
 </html>
