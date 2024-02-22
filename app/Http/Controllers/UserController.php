@@ -6,8 +6,8 @@ use Illuminate\Http\Request;
 
 class UserController extends Controller
 {
-    public function users() {
-        return view('user')
+    public function user($id, $name) {
+        return view('user.user')
         ->with('id', '123')
         ->with('name', 'Karina');
     }
